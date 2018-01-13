@@ -1,8 +1,3 @@
-//#include <SPI.h>
-//Henry's Bench
-// HC-SR501 Motion Detector
-// Sample Sketch
-
 int ledPin = 13;  // LED on Pin 13 of Arduino
 int PIRPIN = 8; // Input for HC-S501
 int REL1PIN = 6; // Input for RELE 1
